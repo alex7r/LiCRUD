@@ -1,0 +1,7 @@
+{
+  "name": "LiCRUD",
+  "version": "0.1.0",
+  "keywords": ["laravel","CRUD"],
+  "license": "MIT",
+  "type": "package"
+}

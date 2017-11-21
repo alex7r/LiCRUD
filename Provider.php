@@ -3,7 +3,7 @@
  * Copyright (c) 2017. Alexandr Kosarev, @kosarev.by
  */
 
-namespace Alex7r\LiCRUD;
+namespace Alex7r\Licrud;
 
 use Illuminate\Support\ServiceProvider;
 

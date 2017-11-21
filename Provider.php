@@ -16,6 +16,6 @@ class Provider extends ServiceProvider
      */
     public function boot()
     {
-        $this->loadViewsFrom(__DIR__.'/resources', 'courier');
+        $this->loadViewsFrom(__DIR__.'/resources', 'LiCRUD');
     }
 }

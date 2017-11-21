@@ -3,7 +3,7 @@
  * Copyright (c) 2017. Alexandr Kosarev, @kosarev.by
  */
 
-namespace Alex7r\LiCRUD;
+namespace LiCRUD;
 
 use App\Http\Controllers\Controller as LController;
 use Illuminate\Http\Request;
